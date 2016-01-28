@@ -29,8 +29,8 @@ The reports, codes and supporting documents are uploaded to Github at:
 In this section, please report:
 
 1. The hexadecimal value of my student ID.
-2. Write down the definite integrals that you have chosen.
-3. Write down your system of 10 linear equations.
+2. Write down the definite integrals that I have chosen.
+3. Write down my system of 10 linear equations.
 
 Solution:
 1. Hexadecimal representation of 1403855 is 0x156bcf
