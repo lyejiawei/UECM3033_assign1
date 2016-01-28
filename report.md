@@ -1,8 +1,8 @@
 UECM3033 Assignment #1 Report
 ========================================================
 
-- Prepared by: ** Put your name here**
-- Tutorial Group: T2/T3
+- Prepared by: Lye Jia Wei
+- Tutorial Group: T2
 
 --------------------------------------------------------
 
@@ -10,14 +10,14 @@ UECM3033 Assignment #1 Report
 
 The reports, codes and supporting documents are uploaded to Github at: 
 
-[https://github.com/your_github_id/UECM3033_assign1](https://github.com/your_github_id/UECM3033_assign1)
+[https://github.com/lyejiawei/UECM3033_assign1](https://github.com/lyejiawei/UECM3033_assign1)
 
 
 ---------------------------------------------------------
 
 ## Task 2 -- setup python
 
-Put here the screen shot of file (python.png)
+(python.png)
 
 ![python.png](python.png)
 
@@ -28,16 +28,27 @@ Put here the screen shot of file (python.png)
 
 In this section, please report:
 
-1. The hexadecimal value of your student ID.
+1. The hexadecimal value of my student ID.
 2. Write down the definite integrals that you have chosen.
 3. Write down your system of 10 linear equations.
 
-Here are the examples of how to add equations in markdown:
+Solution:
+1. Hexadecimal representation of 1403855 is 0x156bcf
+ 
+3. Solution =  [-0.61460264 -1.68638751  0.58232418  0.74753053  0.29603424  0.02938567
+ -1.36718162  0.65625469  0.54713928  0.06480572]
 
-$$\int_0^{\infty} e^{-x^2} dx = \frac{\sqrt{\pi}}{2}.$$
+2. $$\int_0^{\infty} e^{-x}*{sqrt{x}} dx = \frac{\sqrt{\pi}}{2}.$$
 
+3. 
 \begin{align*}
-3 x_0 +x_1 &= 9,\\
+3 x_0 + 1 x_1 + 6 x_2 + 0 x_3 + 4 x_4 + 3 x_5 + 2 x_6 + 8 x_7 + 9 x_8 + 5 x_9  &= 9,\\
+3 x_0 + 1 x_1 + 6 x_2 + 0 x_3 + 4 x_4 + 3 x_5 + 2 x_6 + 8 x_7 + 9 x_8 + 5 x_9  &= 8,\\
+3 x_0 + 1 x_1 + 6 x_2 + 0 x_3 + 4 x_4 + 3 x_5 + 2 x_6 + 8 x_7 + 9 x_8 + 5 x_9  &= 9,\\
+3 x_0 + 1 x_1 + 6 x_2 + 0 x_3 + 4 x_4 + 3 x_5 + 2 x_6 + 8 x_7 + 9 x_8 + 5 x_9  &= 9,\\
+3 x_0 + 1 x_1 + 6 x_2 + 0 x_3 + 4 x_4 + 3 x_5 + 2 x_6 + 8 x_7 + 9 x_8 + 5 x_9  &= 9,\\
+3 x_0 + 1 x_1 + 6 x_2 + 0 x_3 + 4 x_4 + 3 x_5 + 2 x_6 + 8 x_7 + 9 x_8 + 5 x_9  &= 9,\\
+3 x_0 + 1 x_1 + 6 x_2 + 0 x_3 + 4 x_4 + 3 x_5 + 2 x_6 + 8 x_7 + 9 x_8 + 5 x_9  &= 9,\\
 x_0 + 2 x_1 &= 8.
 \end{align*}
 
